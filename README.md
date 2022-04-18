@@ -2,7 +2,7 @@
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
 <p align="center">
-<img src="https://github.com/AbderrahimAl/Data-Extraction-Avito/blob/master/Avito.png">
+<img src="https://github.com/Elhassan7/web-scraping-with-python-Avito/blob/e5cf1092d15e20f2665af0ddcaabac6180acb5b8/Avito.png">
 </p>
 
 
